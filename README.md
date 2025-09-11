@@ -114,6 +114,3 @@ If your server isn't being picked up by Claude Desktop:
 3. Ensure uv is properly installed and accessible
 4. Check Claude Desktop logs for any error messages
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
